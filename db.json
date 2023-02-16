@@ -21,6 +21,33 @@
             "price_action": 4
         }
     ],
+    "shares":[
+        {
+           "id":1,
+           "company_type":"Bank",
+           "perchased":0
+        },
+        {
+            "id":2,
+            "company_type":"IT",
+            "perchased":0
+         },
+         {
+            "id":3,
+            "company_type":"Automobile",
+            "perchased":0
+         },
+         {
+            "id":4,
+            "company_type":"Pharma",
+            "perchased":0
+         },
+         {
+            "id":5,
+            "company_type":"Oil",
+            "perchased":0
+         }
+    ],
 
   "data": [
     {
